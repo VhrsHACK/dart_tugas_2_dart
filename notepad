@@ -1,0 +1,9 @@
+Catatan Tanggal 21-09-2023 Pemrograman Aplikasi Bergerak
+Future adalaah sebuah objek yang mewakili nilai potensial atau kesalahan yang akan terjadi pada suatu waktu di masa
+mendatang, terdapat 3 kondisi
+1. uncompleted
+2. completed with data
+3. completed with error
+
+Dart memiliki keywrod async dan await yang merupakan alternatif supaya bisa menuliskan proses
+asynchronous layaknya proses synchronous
